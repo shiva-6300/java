@@ -1,7 +1,7 @@
 public class Tables2to6 {
     public static void main(String[] args) {
         
-        for (int i = 5; i <= 10; i++) {        // Loop for tables 2 to 6
+        for (int i = 20; i <= 30; i++) {        // Loop for tables 2 to 6
             System.out.println("Table of " + i + ":");
             
             for (int j = 1; j <= 10; j++) {   // Loop for each table (1 to 10)
